@@ -7,7 +7,7 @@ MedCare is a comprehensive AI-powered healthcare platform designed to revolution
 
 This project aims to improve accessibility to healthcare services, ensuring that users receive timely and efficient medical support through an intuitive and secure web platform.
 
-## Motivation
+## Solution
 
 In today's fast-paced world, access to reliable healthcare services is essential. However, many patients face challenges such as long waiting times, difficulty finding blood donors, and a lack of immediate medical assistance. MedCare addresses these issues by leveraging modern web technologies and AI to streamline healthcare processes and enhance user experience.
 
